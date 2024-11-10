@@ -6,8 +6,8 @@ import (
 	"github.com/jackc/pgx/v4"
 	"github.com/pkg/errors"
 
-	"github.com/olezhek28/platform_common/pkg/db"
-	"github.com/olezhek28/platform_common/pkg/db/pg"
+	"github.com/marinaaaniram/go-common-platform/pkg/db"
+	"github.com/marinaaaniram/go-common-platform/pkg/db/pg"
 )
 
 type manager struct {
